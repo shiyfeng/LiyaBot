@@ -5,7 +5,7 @@
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-@set "VIRTUAL_ENV=C:\Users\13266\Desktop\LiyaBot\NoneBot2\LiyaBot\.venv"
+@set "VIRTUAL_ENV=C:\Users\13266\Desktop\nb\bot\LiyaBot\.venv"
 
 @set "VIRTUAL_ENV_PROMPT=LiyaBot"
 @if NOT DEFINED VIRTUAL_ENV_PROMPT (

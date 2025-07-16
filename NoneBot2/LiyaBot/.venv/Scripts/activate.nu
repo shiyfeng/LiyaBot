@@ -32,7 +32,7 @@ export-env {
       }
     }
 
-    let virtual_env = r#'C:\Users\13266\Desktop\LiyaBot\NoneBot2\LiyaBot\.venv'#
+    let virtual_env = r#'C:\Users\13266\Desktop\nb\bot\LiyaBot\.venv'#
     let bin = r#'Scripts'#
 
     let is_windows = ($nu.os-info.family) == 'windows'
