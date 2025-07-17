@@ -36,17 +36,15 @@ plugins = [
     "nonebot_plugin_mypower",
     #roll
     "nonebot_plugin_sayoroll",
-    #签到（需要改进）
     #漂流瓶
     "nonebot_plugin_bottle",
     #alconna适配器
     "nonebot_plugin_alconna",
     #方舟抽卡
     "nonebot_plugin_arkgacha",
-    #抽签（存在问题）
-    "nonebot_plugin_fortune",
     #签到适配器
     "nonebot_plugin_guild_patch",
+    #签到
     "nonebot_plugin_pcr_sign"
 ]
 plugin_dirs = []
