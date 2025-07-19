@@ -30,13 +30,13 @@ git clone https://github.com/shiyfeng/LiyaBot.git
 
 2.打开NoneBot2文件夹，点击安装依赖.bat，这一步会安装LiyaBot所需的各种本地依赖
 
-3.进入到LiyaBot文件夹，安装虚拟环境及对应依赖
+3.进入到LiyaBot文件夹，创建虚拟环境
 
 ```
 python -m venv .venv
 ```
 
-激活虚拟环境
+激活虚拟环境（可以点击进入虚拟环境.bat)
 
 ```
 source .venv/bin/activate   (Linux/Mac)
@@ -46,8 +46,16 @@ source .venv/bin/activate   (Linux/Mac)
 .venv\Scripts\activate      (Windows)
 ```
 
+安装虚拟环境依赖
+
 ```
 pip install -r r.txt
 ```
 
-4.激活虚拟环境
+
+
+4.在激活虚拟环境的情况下启动Bot
+
+```
+nb run
+```
