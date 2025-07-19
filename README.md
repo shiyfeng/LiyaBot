@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://nonebot.dev/logo.png" width="200" height="200" alt="nonebot">
+<img src="https://github.com/shiyfeng/LiyaBot/blob/main/liya.jpg" width="200" height="200" alt="nonebot">
   
 # LiyaBot
 
