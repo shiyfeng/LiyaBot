@@ -57,6 +57,13 @@ pip install -r r.txt
 ```
 nb run
 ```
-
+<p>
 如果能看到下列信息就是启动成功了
-<img src="https://github.com/shiyfeng/LiyaBot/blob/main/nbrun.png" width="500" height="300">
+</p>
+<img src="https://github.com/shiyfeng/LiyaBot/blob/main/nbrun.png" width="600" height="400">
+
+### 连接LLoneBot
+<p>
+LiyaBot只是机器人的本体，实现收发消息则需要通过 [LLoneBot](https://github.com/LLOneBot/LLOneBot) 来实现，关于LLoneBot的更多消息可以参考这个链接
+</p>
+[LLoneBot快速开始](http://llonebot.com/zh-CN/guide/getting-started)
