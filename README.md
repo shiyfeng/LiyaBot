@@ -18,10 +18,36 @@ _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 超级可爱的莉雅Bot �
 
 LiyaBot包含能够使bot启动的基础资源和依赖，如果需要完整的数据资源请访问[LLoneBot-LiyaBot](https://github.com/shiyfeng/LLOneBot-LiyaBot)
 
-# 安装步骤
-1.点击安装依赖.bat<br>
-2.安装虚拟环境及对应依赖<br>
-python -m venv .venv<br>
-source .venv/bin/activate   (Linux/Mac)<br>
-.venv\Scripts\activate      (Windows)<br>
-pip install -r r.txt<br>
+建议使用 [Python3.11](https://www.python.org/downloads/release/python-3110/) 版本
+
+### 安装
+
+1.下载代码包zip或者克隆仓库
+
+```
+git clone https://github.com/shiyfeng/LiyaBot.git
+```
+
+2.打开NoneBot2文件夹，点击安装依赖.bat，这一步会安装LiyaBot所需的各种本地依赖
+
+3.进入到LiyaBot文件夹，安装虚拟环境及对应依赖
+
+```
+python -m venv .venv
+```
+
+激活虚拟环境
+
+```
+source .venv/bin/activate   (Linux/Mac)
+```
+
+```
+.venv\Scripts\activate      (Windows)
+```
+
+```
+pip install -r r.txt
+```
+
+4.激活虚拟环境
