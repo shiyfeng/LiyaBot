@@ -52,7 +52,7 @@ source .venv/bin/activate   (Linux/Mac)
 pip install -r r.txt
 ```
 
-4.在激活虚拟环境的情况下启动Bot
+4.在激活虚拟环境的情况下启动LiyaBot
 
 ```
 nb run
@@ -64,6 +64,18 @@ nb run
 
 ### 连接LLoneBot
 <p>
-LiyaBot只是机器人的本体，实现收发消息则需要通过 [LLoneBot](https://github.com/LLOneBot/LLOneBot) 来实现，关于LLoneBot的更多消息可以参考这个链接
+LiyaBot只是机器人处理信息的部分，实现收发消息则需要通过 [LLoneBot](https://github.com/LLOneBot/LLOneBot) 来实现，关于LLoneBot的更多信息可以参考这个链接
 </p>
-[LLoneBot快速开始](http://llonebot.com/zh-CN/guide/getting-started)
+
+ [LLoneBot快速开始](http://llonebot.com/zh-CN/guide/getting-started) 
+
+<p>
+也可以选择通过 [LLoneBot-LiyaBot](https://github.com/shiyfeng/LLOneBot-LiyaBot) 来获取当前适配LiyaBot的LLoneBot的较稳定版本（不定期更新）
+</p>
+
+<p>
+关于LLoneBot请参考以上两个方案，在完成LLoneBot的配置并启动后，再次启动LiyaBot即可完成连接，此时你应该能看到以下信息
+</p>
+
+<img src="https://github.com/shiyfeng/LiyaBot/blob/main/nbrun.png" width="600" height="400">
+
