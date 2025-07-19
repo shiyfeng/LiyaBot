@@ -1,11 +1,16 @@
 <div align="cneter">
+  
 # LiyaBot
+
 _✨ [Nonebot2](https://github.com/nonebot/nonebot2) 超级可爱的莉雅Bot ✨_
+
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/nonebot-2.3.0+-red.svg" alt="NoneBot">
 </p>
+
 欢迎使用莉雅Bot!
+
 </div>
 本Bot是基于 [NoneBot2](https://github.com/nonebot/nonebot2) 开发的QQ聊天机器人，适用于各种QQ群以及私聊，需要配合 [LLoneBot-LiyaBot](https://github.com/shiyfeng/LLOneBot-LiyaBot) 以及 [Data-LiyaBot](https://github.com/shiyfeng/Data-LiyaBot) 一起使用
 
