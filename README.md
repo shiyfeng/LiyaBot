@@ -52,10 +52,11 @@ source .venv/bin/activate   (Linux/Mac)
 pip install -r r.txt
 ```
 
-
-
 4.在激活虚拟环境的情况下启动Bot
 
 ```
 nb run
 ```
+
+如果能看到下列信息就是启动成功了
+<img src="https://github.com/shiyfeng/LiyaBot/blob/main/nbrun.png" width="500" height="300">
