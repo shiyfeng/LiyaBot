@@ -19,7 +19,6 @@ plugins = [
     #咖波
     "nonebot_plugin_capoo",
     #早晚安
-    "nonebot_plugin_morning",
     #疯狂星期四
     "nonebot_plugin_crazy_thursday",
     #表情合成
